@@ -7,7 +7,7 @@ return [
     'incomes'               => 'Indkomst|Indkomster',
     'invoices'              => 'Faktura|Fakturaer',
     'revenues'              => 'Indtægt|Indtægter',
-    'customers'             => 'Kunde|Kunder',
+    'customers'             => 'Medlem|Medlemmer',
     'expenses'              => 'Udgift|Udgifter',
     'bills'                 => 'Regning|Regninger',
     'payments'              => 'Betaling|Betalinger',
